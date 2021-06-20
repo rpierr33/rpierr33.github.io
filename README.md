@@ -8,7 +8,6 @@ Adjusting the html and css to meet the acceptance criteria
 * CSS
 
 
-https://lernantino.github.io/run-buddy/
-
+git@github.com:rpierr33/rpierr33.github.io.git
 
 Made with ❤️ by Ralph Pierre

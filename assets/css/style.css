@@ -6,8 +6,10 @@
 
 body {
     background-color: #d9dcd6;
+  
+    
 }
-
+/* styles for header element */
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -24,7 +26,7 @@ body {
     color: #d9dcd6;
 }
 
-.header div {
+.header nav {
     padding-top: 15px;
     margin-right: 20px;
     float: right;
@@ -32,23 +34,26 @@ body {
     font-size: 20px;
 }
 
-.header div ul {
+.header nav ul {
     list-style-type: none;
 }
 
-.header div ul li {
+.header nav ul li {
     display: inline-block;
     margin-left: 25px;
 }
+/* styles for a tag*/
 
 a {
     color: #ffffff;
     text-decoration: none;
 }
+/* styles for p element */
 
 p {
     font-size: 16px;
 }
+/* styles for hero class */
 
 .hero {
     height: 800px;
@@ -58,6 +63,7 @@ p {
     background-size: cover;
     background-position: center;
 }
+/* styles to float images*/
 
 .float-left {
     float: left;
@@ -68,12 +74,14 @@ p {
     float: right;
     margin-left: 25px;
 }
+/* styles for main element  */
 
 .content {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
 }
+/* styles for article elements */
 
 .benefits {
     margin-right: 20px;
@@ -134,6 +142,11 @@ p {
     max-width: 150px;
 }
 
+nav a:hover{
+    color: yellow;
+}
+/* styles for main elements */
+
 .search-engine-optimization {
     margin-bottom: 20px;
     padding: 50px;
@@ -187,15 +200,16 @@ p {
     margin-bottom: 20px;
     font-size: 36px;
 }
+/* styles for footer element */
 
-.footer {
+footer {
     padding: 30px;
     clear: both;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     text-align: center;
 }
 
-.footer h2 {
+footer h3 {
     font-size: 20px;
     font-weight: 50%;
 }

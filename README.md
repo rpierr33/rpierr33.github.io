@@ -8,6 +8,6 @@ Adjusting the html and css to meet the acceptance criteria
 * CSS
 
 
-git@github.com:rpierr33/rpierr33.github.io.git
+https://rpierr33.github.io
 
 Made with ❤️ by Ralph Pierre
